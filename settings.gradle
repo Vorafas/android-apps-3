@@ -1,3 +1,4 @@
+include ':p1141_supportlibrary'
 include ':p1012_contprovclient'
 include ':p1011_contentprovider'
 include ':p0991_servicenotification'

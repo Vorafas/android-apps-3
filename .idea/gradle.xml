@@ -18,6 +18,7 @@
             <option value="$PROJECT_DIR$/p0991_servicenotification" />
             <option value="$PROJECT_DIR$/p1011_contentprovider" />
             <option value="$PROJECT_DIR$/p1012_contprovclient" />
+            <option value="$PROJECT_DIR$/p1141_supportlibrary" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

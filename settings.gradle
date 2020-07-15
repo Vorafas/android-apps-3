@@ -1,3 +1,5 @@
+include ':p1012_contprovclient'
+include ':p1011_contentprovider'
 include ':p0991_servicenotification'
 include ':p0872_servicebindserver'
 include ':p0971_servicebindclient'

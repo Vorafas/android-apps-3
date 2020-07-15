@@ -1,2 +1,4 @@
+include ':p0872_servicebindserver'
+include ':p0971_servicebindclient'
 include ':app'
 rootProject.name = "ServiceBackBroadcast"

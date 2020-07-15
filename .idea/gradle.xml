@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/p0872_servicebindserver" />
             <option value="$PROJECT_DIR$/p0971_servicebindclient" />
+            <option value="$PROJECT_DIR$/p0991_servicenotification" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -1,3 +1,5 @@
+include ':p1162_mngtasks2'
+include ':p1161_mngtask1'
 include ':p1141_supportlibrary'
 include ':p1012_contprovclient'
 include ':p1011_contentprovider'

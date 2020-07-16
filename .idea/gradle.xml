@@ -19,6 +19,8 @@
             <option value="$PROJECT_DIR$/p1011_contentprovider" />
             <option value="$PROJECT_DIR$/p1012_contprovclient" />
             <option value="$PROJECT_DIR$/p1141_supportlibrary" />
+            <option value="$PROJECT_DIR$/p1161_mngtask1" />
+            <option value="$PROJECT_DIR$/p1162_mngtasks2" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
